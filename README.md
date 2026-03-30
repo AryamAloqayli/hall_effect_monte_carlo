@@ -152,15 +152,4 @@ To improve reliability, uncertainty was propagated using Monte Carlo simulation:
 - Monte Carlo shows that results are **statistically stable**  
 - Uncertainty is small relative to measured values  
 
----
-
-## Why Monte Carlo?
-
-Instead of reporting a single value, Monte Carlo allows:
-
-- estimation of uncertainty  
-- visualization of variability  
-- understanding sensitivity to measurement noise  
-
-This makes the analysis more realistic and closer to actual research practice.
 
